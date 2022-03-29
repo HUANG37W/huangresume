@@ -9,7 +9,7 @@ Software Engineering student at BYU-Idaho.
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/chun-shen-huang-8a146216b/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/HUANG37W/huangresume">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
