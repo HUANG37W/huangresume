@@ -48,7 +48,7 @@ __Amazon__, ConsultantIT Problem Solver
 
 ### Data Science Lead
 
-`January 2028 - June 2028`
+`January 2020 - June 2021`
 __Pacific Northwest National Lab__, Richland, WA
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
@@ -57,14 +57,14 @@ __Pacific Northwest National Lab__, Richland, WA
 
 ### Data Science Consulting Team
 
-`January 2027 - April 2027`
+`January 2020 - April 2021`
 __Imagine Learning__
 
 - Build web scraping tool to find and format school district technology data.
 - Used R and the Rvest package to parse and format web data.
 - Saved 30 hours a month with the automated scripts.
 
-`April 2027 - July 2027`
+`April 2020 - July 2021`
 __Pinnacle Management Group__, 
 
 - Proof of concept development of dashboards using client's corporate data.
@@ -74,7 +74,7 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
+`2020-2021`
 __Math Tutor__, LDSBC
 
 
